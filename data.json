@@ -1,11 +1,11 @@
 [
     { "title": "UMBRO ボクサーパンツ", "price": "¥1,100", "stars": "★★★★★", "memo": "どこも売り切れのやつ。いつ入荷するの！", "img": "https://c.imgz.jp/404/68749404/68749404b_27_d_500.jpg", "link": "https://www.wakudoki.ne.jp/productdetail/69ubb081a/2/", "got": false,
         "date": "" },
-    { "title": "SHIRO サボン ボディコロン", "price": "¥1,980", "stars": "★★☆☆☆", "memo": "よさそうな香水。試してみたい。", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/51kbCcAqH+L._AC_SL1500_.jpg", "link": "https://amzn.asia/d/01aKHDhg", "got": false,
+    { "title": "SHIRO サボン ボディコロン", "price": "¥1,980", "stars": "★★★☆☆", "memo": "店で試してみて気に入ったら買う。", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/51kbCcAqH+L._AC_SL1500_.jpg", "link": "https://amzn.asia/d/01aKHDhg", "got": false,
         "date": "" },
-    { "title": "グランズレメディ モアビビちゃんの魔法の粉", "price": "¥2,482", "stars": "★☆☆☆☆", "memo": "高いからまだ買いはしない。けどセールで安くはなってる。", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/81qXMfJ9HyL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/0ehx52en", "got": false,
+    { "title": "グランズレメディ モアビビちゃんの魔法の粉", "price": "¥2,482", "stars": "★★☆☆☆", "memo": "高いからまだ買いはしない。けどセールで安くはなってる。", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/81qXMfJ9HyL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/0ehx52en", "got": false,
         "date": "" },
-    { "title": "リップスボーイ リップバーム", "price": "¥1,190", "stars": "★★☆☆☆", "memo": "高いし普通のと何が違うんだろ", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/61XKNd9sHVL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/05Vm8yPh", "got": false,
+    { "title": "リップスボーイ リップバーム", "price": "¥1,190", "stars": "★★★☆☆", "memo": "保湿だけじゃない久手色味もあるのはちょっといいかも。", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/61XKNd9sHVL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/05Vm8yPh", "got": false,
         "date": "" },
     { "title": "オーラツーミーマウススプレー", "price": "¥600", "stars": "★★★★★", "memo": "いまほぼ半額!?試しに買うしかない", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/71vF-4+UUiL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/02V0A59A", "got": false,
         "date": "" },
@@ -13,7 +13,12 @@
         "date": "2026.09.16" },
     { "title": "アンレーベル ヘアマスク", "price": "¥1,980", "stars": "★★★★☆", "memo": "気になってはいる！けどちょっとたかい", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/517xAwPjZzL._AC_SL1200_.jpg", "link": "https://amzn.asia/d/08X4rRsH", "got": false,
         "date": "" },
-    { "title": "オルビス クレンジングオイル", "price": "¥2,200", "stars": "★★★☆☆", "memo": "気になるけど高め、", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/51-hpFiFZsL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/0h12YzkR", "got": false, "date": "" },
+    { "title": "オルビス クレンジングオイル", "price": "¥2,200", "stars": "★★★☆☆", "memo": "気になるけど高め、今はいいかな", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/51-hpFiFZsL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/0h12YzkR", "got": false, "date": "" },
     { "title": "スキンライフ 洗顔フォーム", "price": "¥728", "stars": "★★★★☆", "memo": "2個セットでちょっと安くなってる！", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/61e+ktvSnsL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/09cEMaoS", "got": false, "date": "" },
-    { "title": "スキンライフ 化粧水", "price": "¥1,254", "stars": "★★★★☆", "memo": "同じシリーズがいいらしいから！安いし！", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/61bP-8zjU6L._AC_SL1454_.jpg", "link": "https://amzn.asia/d/04BFV64J", "got": false, "date": "" }
+    { "title": "スキンライフ 化粧水", "price": "¥1,254", "stars": "★★★★☆", "memo": "同じシリーズがいいらしいから！安いし！", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/61bP-8zjU6L._AC_SL1454_.jpg", "link": "https://amzn.asia/d/04BFV64J", "got": false, "date": "" },
+    { "title": "肌ラボ 白潤 乳液", "price": "¥1,694", "stars": "★★★★☆", "memo": "たかいなー", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/617dtHEIBYL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/0bJDspIm", "got": false, "date": "" },
+    { "title": "スキンアクア スーパーモイスチャージェル ポンプ", "price": "¥797", "stars": "★★★☆☆", "memo": "使ってる日焼け止め。今のが切れたら買う。", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/71SMwIiJA7L._AC_SL1500_.jpg", "link": "https://amzn.asia/d/0cYx3g5O", "got": false, "date": "" },
+    { "title": "LIPPS　スタイリストシャンプー", "price": "¥1,650", "stars": "★★★☆☆", "memo": "お試し使ってよさそうだったらかう。", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/41xC7-XD-hL._AC_SL1080_.jpg", "link": "https://amzn.asia/d/0dC5KEFD", "got": false, "date": "" },
+    { "title": "無印良品 洗顔用泡立てネット", "price": "¥120", "stars": "★★★★☆", "memo": "安いし、またかお。", "img": "https://www.muji.com/public/media/img/item/4550182045031_org.jpg?im=Resize%2Ctype%3Ddownsize%2Cwidth%3D1080", "link": "https://www.muji.com/jp/ja/store/cmdty/detail/4550182045031", "got": false, "date": "" },
+    { "title": "GATSBY プレミアムタイプ デオドラントロールオン", "price": "¥1,439", "stars": "★★★★☆", "memo": "脇汗防止", "img": "https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T2/images/I/711ZdnFqwQL._AC_SL1500_.jpg", "link": "https://amzn.asia/d/0eWH01wW", "got": false, "date": "" }
 ]
